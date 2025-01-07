@@ -55,11 +55,11 @@ Once installed, open the app and sign in using your college credentials. Explore
 
 ## Contact
 
-For any inquiries or support, please contact us [V N V Rithvik Kumar](mailto:voorarithvik4719@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+For any inquiries or support, please contact us [B Sai Harika](mailto:saiharika@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 ## Authors
 
-- [V N V Rithvik Kumar]
-- Rasheed Ahamed M
+- [B Sai harika]
+- V N V Rithvik Kumar
 
 ## Screenshots
 
